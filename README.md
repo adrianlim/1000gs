@@ -1,9 +1,14 @@
 1000gs
 ======
 
-Originated from Elliot Jay Stocks.
+Originated from <a href src="http://elliotjaystocks.com/">Elliot Jay Stocks</a>.
 
-The idea is to use a number that is easy to deal with when dealing with Responsive Web Design.
+The idea is to use a number that is easy to deal with for Responsive Web Design.
 
-I've altered the original PSD file, feel free to change it to your own needs.
+Elliot came up with the magical 1000.
+
+I've made a few adjustments to the original PSD file.
+
+<a href src="http://elliotjaystocks.com/blog/a-better-photoshop-grid-for-responsive-web-design/">Original source</a>
+
 
